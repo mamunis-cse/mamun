@@ -76,7 +76,7 @@ My passion lies in building **secure, scalable, and resilient systems** that evo
 
 ---
 
-## 💡 Fun Terminal Moment
+
 
 ```bash
 sudo apt install success && echo "Never stop learning!" 🌱
